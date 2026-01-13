@@ -1,0 +1,17 @@
+sd
+homepage - sd events/promos ✅
+probably in a slidng manner for each promos. ✅
+background ✅
+
+products page - each products per category e.g frappe, milktea etc. ✅
+each product will be in a sliding manner where the user can interact with it left to right or left to right. ✅
+
+Each product will have its own page when the image is clicked. ✅ = fixed with modal removing the hassle of creating seperate pages for each product.
+functioning search bar X
+
+socials page - fb,ig,tiktok pages. it could be just logos of their socials. ✅
+
+About us - information about super daddy.
+probably a paragraph that consists of information about super daddy. 
+pictures of the place instead ✅
+
